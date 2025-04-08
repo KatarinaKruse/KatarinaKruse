@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Katarina Kruse!
 
-<!--
-**KatarinaKruse/KatarinaKruse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student at the **University of West Florida**, currently diving deep into code and caffeine.  
+🤖 My passion lies in **Artificial Intelligence**, and I'm working toward specializing in it.  
+🌱 Right now, I'm learning the foundations of software development and exploring AI through projects and classes.
 
-Here are some ideas to get you started:
+## 🧠 Current Interests
+- Machine Learning & AI  
+- Java, C++, and TypeScript  
+- Algorithms & Problem Solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Statistics  
+- Linear Algebra  
+- Computer Organization  
+- Software Engineering I  
+- Theory of Computation  
+
+## 🚀 Goals
+- Build and share more AI-related projects  
+- Contribute to open-source  
+- Land an internship or research position in AI  
+- Graduate with solid experience in both theory and real-world application  
+
+## 🛠️ Tools & Languages
+- Java, C++, TypeScript  
+- Git & GitHub  
+- Visual Studio Code  

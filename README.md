@@ -6,7 +6,7 @@
 
 ## 🧠 Current Interests
 - Machine Learning & AI  
-- Java, C++, and TypeScript  
+- Programming
 - Algorithms & Problem Solving  
 
 ## 📚 Currently Learning

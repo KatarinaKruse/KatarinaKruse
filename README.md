@@ -10,11 +10,10 @@
 - Algorithms & Problem Solving  
 
 ## 📚 Currently Learning
-- Statistics  
-- Linear Algebra  
-- Computer Organization  
-- Software Engineering I  
-- Theory of Computation  
+-Systems & Networks I
+-Advanced Computer Programming
+-Data Structures & Algorithms II
+-Secure Software Development
 
 ## 🚀 Goals
 - Build and share more AI-related projects  
@@ -23,6 +22,6 @@
 - Graduate with solid experience in both theory and real-world application  
 
 ## 🛠️ Tools & Languages
-- Java, C++, TypeScript  
+- Java, C++, HTML, TypeScript  
 - Git & GitHub  
 - Visual Studio Code  

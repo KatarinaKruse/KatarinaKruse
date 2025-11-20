@@ -10,10 +10,10 @@
 - Algorithms & Problem Solving  
 
 ## 📚 Currently Learning
--Systems & Networks I
--Advanced Computer Programming
--Data Structures & Algorithms II
--Secure Software Development
+- Systems & Networks I
+- Advanced Computer Programming
+- Data Structures & Algorithms II
+- Secure Software Development
 
 ## 🚀 Goals
 - Build and share more AI-related projects  

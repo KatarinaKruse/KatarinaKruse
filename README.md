@@ -1,27 +1,32 @@
 # Hi, I'm Katarina Kruse!
 
-🎓 I'm a Computer Science student at the **University of West Florida**, currently diving deep into code and caffeine.  
-🤖 My passion lies in **Artificial Intelligence**, and I'm working toward specializing in it.  
-🌱 Right now, I'm learning the foundations of software development and exploring AI through projects and classes.
+🎓 I'm a Computer Science student at the **University of West Florida**, currently diving deep into code.
+🤖 My passion lies in **Artificial Intelligence**, with a strong interest in becoming a **Robotics Software Engineer**.
+🌱 Right now, I'm strengthening the foundations of software development while exploring AI and robotics through projects and coursework.
 
 ## 🧠 Current Interests
-- Machine Learning & AI  
-- Programming
-- Algorithms & Problem Solving  
+
+* Artificial Intelligence & Machine Learning
+* Robotics Software Engineering
+* Programming
+* Algorithms & Problem Solving
 
 ## 📚 Currently Learning
-- Systems & Networks I
-- Advanced Computer Programming
-- Data Structures & Algorithms II
-- Secure Software Development
+
+* Capstone Project
+* Programming Languages
+* Systems & Networks II
+* Intro to AI
 
 ## 🚀 Goals
-- Build and share more AI-related projects  
-- Contribute to open-source  
-- Land an internship or research position in AI  
-- Graduate with solid experience in both theory and real-world application  
+
+* Build and share more AI- and robotics-related projects
+* Secure **scholarships and grants** for continued education
+* Pursue a **Master’s degree in Engineering with a concentration in Robotics**
+* Graduate with solid experience in both theory and real-world application
 
 ## 🛠️ Tools & Languages
-- Java, C++, HTML, TypeScript  
-- Git & GitHub  
-- Visual Studio Code  
+
+* Java, C++, HTML, TypeScript
+* Git & GitHub
+* Visual Studio Code

@@ -1,7 +1,7 @@
 # Hi, I'm Katarina Kruse!
 
 🎓 I'm a Computer Science student at the **University of West Florida**, currently diving deep into code.
-🤖 My passion lies in **Artificial Intelligence**, with a strong interest in becoming a **Robotics Software Engineer**.
+🤖 My passion lies in **Artificial Intelligence**, with a strong interest in becoming a **Robotics Engineer**.
 🌱 Right now, I'm strengthening the foundations of software development while exploring AI and robotics through projects and coursework.
 
 ## 🧠 Current Interests
